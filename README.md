@@ -1,2 +1,3 @@
 - 👋 Salut, je suis @MSengler.
 - J'étudie dans le master CSMI à Strasbourg.
+- Je publie de temps en temps quelques réposistories de projets simpas: rosaces, sudoku, chiffrements de Vigenère... N'hésiter pas à regarder :)
